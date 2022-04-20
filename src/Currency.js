@@ -6,7 +6,7 @@ const Currency = () => {
   
   const { symbol } = useParams();
 
-  //url !
+  //The url could not be successfully created
 
   useEffect(() => {
     fetch(
