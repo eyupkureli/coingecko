@@ -1,0 +1,4 @@
+export const ActionTypes = {
+   SET_CURRENCIES: "SET_CURRENCIES",
+   SELECTED_CURRENCY: "SELECTED_CURRENCY",
+}
